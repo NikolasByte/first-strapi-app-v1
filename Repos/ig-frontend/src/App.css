@@ -1,0 +1,21 @@
+
+body {
+  width: 490px;
+  margin: auto;
+}
+.post {
+  margin: 12px auto 12px;
+  padding: 12px 20px;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+.post__image {
+  max-width: 350px;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+a.active {
+  text-decoration: underline;
+}
